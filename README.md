@@ -1,1 +1,2 @@
-# DICT_Python_Education_Lazarev_Dima
+Lazaryev Dima
+Galina Proskura
